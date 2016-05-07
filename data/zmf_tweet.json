@@ -1,0 +1,272 @@
+{
+	"filter_level": "low",
+	"retweeted": false,
+	"in_reply_to_screen_name": null,
+	"truncated": false,
+	"lang": "en",
+	"in_reply_to_status_id_str": null,
+	"id": 724593644536225794,
+	"in_reply_to_user_id_str": null,
+	"timestamp_ms": "1461591561813",
+	"in_reply_to_status_id": null,
+	"created_at": "Mon Apr 25 13:39:21 +0000 2016",
+	"favorite_count": 0,
+	"place": null,
+	"coordinates": null,
+	"text": "RT @Luke_hl: @mbindwane @anccadres Well, as Zuma himself said \"only the bright people\" have a problem with his corruption! #ZumaMustFall #Z\u2026",
+	"contributors": null,
+	"retweeted_status": 
+	{
+		"filter_level": "low",
+		"contributors": null,
+		"text": "@mbindwane @anccadres Well, as Zuma himself said \"only the bright people\" have a problem with his corruption! #ZumaMustFall #ZuptaMustFall",
+		"geo": null,
+		"retweeted": false,
+		"in_reply_to_screen_name": "mbindwane",
+		"truncated": false,
+		"lang": "en",
+		"entities": 
+		{
+			"symbols": 
+			[
+				
+			],
+
+			"urls": 
+			[
+				
+			],
+
+			"hashtags": 
+			[
+				{
+					"text": "ZumaMustFall",
+					"indices": 
+					[
+						110,
+						123
+					]
+				},
+
+				{
+					"text": "ZuptaMustFall",
+					"indices": 
+					[
+						124,
+						138
+					]
+				}
+			],
+
+			"user_mentions": 
+			[
+				{
+					"id": 587315250,
+					"name": "Bo Mbindwane",
+					"indices": 
+					[
+						0,
+						10
+					],
+
+					"screen_name": "mbindwane",
+					"id_str": "587315250"
+				},
+
+				{
+					"id": 2218609787,
+					"name": "I LOVE @MyANC_!!!!!",
+					"indices": 
+					[
+						11,
+						21
+					],
+
+					"screen_name": "anccadres",
+					"id_str": "2218609787"
+				}
+			]
+		},
+
+		"in_reply_to_status_id_str": "724580967197888512",
+		"is_quote_status": false,
+		"id": 724589671012032514,
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+		"in_reply_to_user_id_str": "587315250",
+		"favorited": false,
+		"in_reply_to_status_id": 724580967197888512,
+		"retweet_count": 1,
+		"created_at": "Mon Apr 25 13:23:34 +0000 2016",
+		"in_reply_to_user_id": 587315250,
+		"favorite_count": 0,
+		"id_str": "724589671012032514",
+		"place": null,
+		"user": 
+		{
+			"location": null,
+			"default_profile": true,
+			"profile_background_tile": false,
+			"statuses_count": 692,
+			"lang": "en",
+			"profile_link_color": "0084B4",
+			"id": 2301900324,
+			"following": null,
+			"protected": false,
+			"favourites_count": 42,
+			"profile_text_color": "333333",
+			"verified": false,
+			"description": null,
+			"contributors_enabled": false,
+			"profile_sidebar_border_color": "C0DEED",
+			"name": "LukeH",
+			"profile_background_color": "C0DEED",
+			"created_at": "Mon Jan 20 19:20:25 +0000 2014",
+			"default_profile_image": false,
+			"followers_count": 37,
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675320605026160640/y9J-iWC1_normal.jpg",
+			"geo_enabled": true,
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"follow_request_sent": null,
+			"url": null,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"notifications": null,
+			"profile_use_background_image": true,
+			"friends_count": 185,
+			"profile_sidebar_fill_color": "DDEEF6",
+			"screen_name": "Luke_hl",
+			"id_str": "2301900324",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675320605026160640/y9J-iWC1_normal.jpg",
+			"listed_count": 0,
+			"is_translator": false
+		},
+
+		"coordinates": null
+	},
+
+	"geo": null,
+	"entities": 
+	{
+		"symbols": 
+		[
+			
+		],
+
+		"urls": 
+		[
+			
+		],
+
+		"hashtags": 
+		[
+			{
+				"text": "ZumaMustFall",
+				"indices": 
+				[
+					123,
+					136
+				]
+			},
+
+			{
+				"text": "ZuptaMustFall",
+				"indices": 
+				[
+					137,
+					140
+				]
+			}
+		],
+
+		"user_mentions": 
+		[
+			{
+				"id": 2301900324,
+				"name": "LukeH",
+				"indices": 
+				[
+					3,
+					11
+				],
+
+				"screen_name": "Luke_hl",
+				"id_str": "2301900324"
+			},
+
+			{
+				"id": 587315250,
+				"name": "Bo Mbindwane",
+				"indices": 
+				[
+					13,
+					23
+				],
+
+				"screen_name": "mbindwane",
+				"id_str": "587315250"
+			},
+
+			{
+				"id": 2218609787,
+				"name": "I LOVE @MyANC_!!!!!",
+				"indices": 
+				[
+					24,
+					34
+				],
+
+				"screen_name": "anccadres",
+				"id_str": "2218609787"
+			}
+		]
+	},
+
+	"is_quote_status": false,
+	"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client<\/a>",
+	"favorited": false,
+	"in_reply_to_user_id": null,
+	"retweet_count": 0,
+	"id_str": "724593644536225794",
+	"user": 
+	{
+		"location": null,
+		"default_profile": true,
+		"profile_background_tile": false,
+		"statuses_count": 360,
+		"lang": "en",
+		"profile_link_color": "0084B4",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/2340888314/1452089401",
+		"id": 2340888314,
+		"following": null,
+		"protected": false,
+		"favourites_count": 224,
+		"profile_text_color": "333333",
+		"verified": false,
+		"description": null,
+		"contributors_enabled": false,
+		"profile_sidebar_border_color": "C0DEED",
+		"name": "Phumlani Mbabela",
+		"profile_background_color": "C0DEED",
+		"created_at": "Wed Feb 12 20:21:30 +0000 2014",
+		"default_profile_image": false,
+		"followers_count": 411,
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/684738045543858176/h-6OzSZL_normal.jpg",
+		"geo_enabled": true,
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"follow_request_sent": null,
+		"url": "http://www.zwideheights.co.za",
+		"utc_offset": -25200,
+		"time_zone": "Pacific Time (US & Canada)",
+		"notifications": null,
+		"profile_use_background_image": true,
+		"friends_count": 2302,
+		"profile_sidebar_fill_color": "DDEEF6",
+		"screen_name": "pmbabela",
+		"id_str": "2340888314",
+		"profile_image_url": "http://pbs.twimg.com/profile_images/684738045543858176/h-6OzSZL_normal.jpg",
+		"listed_count": 6,
+		"is_translator": false
+	}
+}
